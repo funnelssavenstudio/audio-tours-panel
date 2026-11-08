@@ -1,0 +1,45 @@
+{
+   "name": "dashboard-next-audio-tours-latest",
+   "version": "0.1.0",
+   "private": true,
+   "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+   },
+   "dependencies": {
+      "@googlemaps/markerclusterer": "^2.5.3",
+      "@googlemaps/react-wrapper": "^1.1.42",
+      "@heroui/react": "2.6.14",
+      "@hookform/resolvers": "^5.1.1",
+      "@react-aria/i18n": "^3.12.5",
+      "@types/googlemaps": "^3.43.3",
+      "axios": "^1.7.7",
+      "framer-motion": "^11.11.9",
+      "js-cookie": "^3.0.5",
+      "jsqr": "^1.4.0",
+      "next": "^15.5.12",
+      "next-auth": "5.0.0-beta.31",
+      "next-themes": "^0.3.0",
+      "react": "^18",
+      "react-countup": "^6.5.3",
+      "react-dom": "^18",
+      "react-dropzone": "^14.2.10",
+      "react-hook-form": "^7.53.1",
+      "zod": "^3.25.64"
+   },
+   "devDependencies": {
+      "@iconify/react": "^5.0.2",
+      "@types/js-cookie": "^3.0.6",
+      "@types/node": "^22",
+      "@types/react": "^18",
+      "@types/react-dom": "^18",
+      "autoprefixer": "^10.4.20",
+      "eslint": "^9",
+      "eslint-config-next": "^15.5.12",
+      "postcss": "^8",
+      "tailwindcss": "^3.4.14",
+      "typescript": "^5"
+   }
+}

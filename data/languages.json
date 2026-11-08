@@ -1,0 +1,860 @@
+{
+	"list": [
+		{
+			"uuid": "eaff4c82-8d43-4b0d-9966-84ff86344a94",
+			"active": false,
+			"code": "af",
+			"name": "Afrikaans",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "bf204476-c00a-4196-b5e0-cbcabaa50db9",
+			"active": false,
+			"code": "am",
+			"name": "Amharic",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "3581d47f-9731-4aa7-9111-d79af8c24b18",
+			"active": false,
+			"code": "ar",
+			"name": "Arabic",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "f7637295-8877-4742-bdb2-8e022c1caade",
+			"active": false,
+			"code": "ast",
+			"name": "Asturian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "31d6bb4c-12e2-4fde-9173-6a9c742ba50c",
+			"active": false,
+			"code": "az",
+			"name": "Azerbaijani",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "26a555ea-df83-4446-bc78-324b7b026660",
+			"active": false,
+			"code": "be",
+			"name": "Belarusian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "dd41bbf3-9bd6-46a9-b91b-4841fc6c587c",
+			"active": false,
+			"code": "bg",
+			"name": "Bulgarian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "42d1fe6a-db87-4d96-9880-723324f22406",
+			"active": false,
+			"code": "bn",
+			"name": "Bengali",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "63d1d00c-73d1-435e-9d73-264f59892feb",
+			"active": false,
+			"code": "bo",
+			"name": "Tibetan",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "9bac694c-aa4d-4265-8426-c6bdc6c65a2a",
+			"active": false,
+			"code": "br",
+			"name": "Breton",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "11db642c-0f62-4726-b5de-49737ad3a84b",
+			"active": false,
+			"code": "bs",
+			"name": "Bosnian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "f8cf6342-2f2d-48ed-b7ea-4f8df30155d0",
+			"active": false,
+			"code": "ca",
+			"name": "Catalan",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "fa13c0a0-51ed-4c94-bb37-2770fb24d883",
+			"active": false,
+			"code": "cs",
+			"name": "Czech",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "5bedbb44-07e3-4bfa-b987-bd6b0fa7fb92",
+			"active": false,
+			"code": "cy",
+			"name": "Welsh",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "377a2587-e783-4719-9d2b-eca25e0907b4",
+			"active": false,
+			"code": "da",
+			"name": "Danish",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "61be1de6-1558-4dad-9740-eb98cb4b8d7b",
+			"active": false,
+			"code": "de",
+			"name": "German",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "94c43ad0-8996-4d28-a3fb-4052c3c9674b",
+			"active": false,
+			"code": "dz",
+			"name": "Dzongkha",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "06ae2adb-c30a-4e00-bd51-8c1f312c3e58",
+			"active": false,
+			"code": "el",
+			"name": "Greek",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "0a92428a-91c6-440c-9d31-68b4d484ccd7",
+			"active": true,
+			"code": "en",
+			"name": "English",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "e53abd30-14b1-4611-98cc-685311d8c4de",
+			"active": false,
+			"code": "en-gb",
+			"name": "English, British",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "ed35ba09-a9b2-4e50-a2d9-89bac3dea35d",
+			"active": false,
+			"code": "en-x-simple",
+			"name": "Simple English",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "c88a57fc-6c0c-4244-8718-054b81a5dcbf",
+			"active": false,
+			"code": "eo",
+			"name": "Esperanto",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "a46586fa-8977-4c8a-b307-b4e8b296f0f6",
+			"active": false,
+			"code": "es",
+			"name": "Spanish",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "3d16a357-585d-4429-917f-22cd38d1b242",
+			"active": false,
+			"code": "et",
+			"name": "Estonian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "1720b8d9-68d2-4231-a88d-c59125bb00fe",
+			"active": false,
+			"code": "eu",
+			"name": "Basque",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "05b913ee-9837-437d-97f0-f4efb45b8b88",
+			"active": false,
+			"code": "fa",
+			"name": "Persian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "b0f4a0a7-2d86-475c-a0a8-bcebb2524025",
+			"active": false,
+			"code": "fi",
+			"name": "Finnish",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "182b94e1-6a83-460b-8fa3-15485145d35e",
+			"active": false,
+			"code": "fil",
+			"name": "Filipino",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "b3192e38-5eb6-4af9-892c-418ee19e1aad",
+			"active": false,
+			"code": "fo",
+			"name": "Faeroese",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "c2c9c918-d5fb-46ea-803b-0a4c61f0520e",
+			"active": false,
+			"code": "fr",
+			"name": "French",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "8ddfbd7b-3e6c-491c-82ae-d59791d00536",
+			"active": false,
+			"code": "fy",
+			"name": "Frisian, Western",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "c0230ff7-e596-468e-ad88-9e9b479ba3a8",
+			"active": false,
+			"code": "ga",
+			"name": "Irish",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "46da3a40-695e-454b-8aae-8684fc496f6d",
+			"active": false,
+			"code": "gd",
+			"name": "Scots Gaelic",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "50760da6-d3f7-4615-8a41-1e4b58b0615f",
+			"active": false,
+			"code": "gl",
+			"name": "Galician",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "712c5bc2-5a8c-4e89-ba84-687fa152059d",
+			"active": false,
+			"code": "gsw-berne",
+			"name": "Swiss German",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "ae8bbf24-81a9-46d8-ad32-2a8504583e71",
+			"active": false,
+			"code": "gu",
+			"name": "Gujarati",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "da2e8fc8-e1e9-4464-be03-dc8961fbeba8",
+			"active": false,
+			"code": "haw",
+			"name": "Hawaiian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "b7032c15-9834-4a9d-b066-36d0f39e5fe0",
+			"active": false,
+			"code": "he",
+			"name": "Hebrew",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "490d4934-b79b-431f-b00b-f89b7768a3fb",
+			"active": false,
+			"code": "hi",
+			"name": "Hindi",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "46187ff8-df86-4fbb-81e9-1a20fb891ee4",
+			"active": false,
+			"code": "hr",
+			"name": "Croatian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "b66f5a66-cc07-427c-aec1-0c1fa939ca51",
+			"active": false,
+			"code": "ht",
+			"name": "Haitian Creole",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "71cf7337-d053-4a61-b752-fcffd5ca74f8",
+			"active": false,
+			"code": "hu",
+			"name": "Hungarian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "e475d38f-12f1-4a39-9f7a-a3e027ef46e8",
+			"active": false,
+			"code": "hy",
+			"name": "Armenian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "cf43c0b6-b970-4af2-a407-ac507732eb81",
+			"active": false,
+			"code": "id",
+			"name": "Indonesian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "2d2068fb-f47e-4d2b-bbb3-edd180741952",
+			"active": false,
+			"code": "is",
+			"name": "Icelandic",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "ca0b78f1-a426-4856-b7b6-3ccc806f1e3e",
+			"active": false,
+			"code": "it",
+			"name": "Italian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "5cb374f8-d7a3-4bcb-a853-a2d7d7214163",
+			"active": false,
+			"code": "ja",
+			"name": "Japanese",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "6a6a8249-5ccc-4a94-a722-28b978110110",
+			"active": false,
+			"code": "jv",
+			"name": "Javanese",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "5aa8c3df-38e0-4bad-871e-0bf9552148fe",
+			"active": false,
+			"code": "ka",
+			"name": "Georgian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "eeae1db4-fe36-4ae0-9074-ff5fe04d7351",
+			"active": false,
+			"code": "kk",
+			"name": "Kazakh",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "7bc51055-add3-427d-a8ea-c560e362dfb8",
+			"active": false,
+			"code": "km",
+			"name": "Khmer",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "9e3145c4-ef80-4b9b-996d-20e6daf9371b",
+			"active": false,
+			"code": "kn",
+			"name": "Kannada",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "21a0406c-d804-4e10-9ca2-09aeac35adf4",
+			"active": false,
+			"code": "ko",
+			"name": "Korean",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "9fc2e55d-d872-4363-9099-4906dc968e0b",
+			"active": false,
+			"code": "ku",
+			"name": "Kurdish",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "066775c0-ea35-490c-9a0f-ce4dd842fcf5",
+			"active": false,
+			"code": "ky",
+			"name": "Kyrgyz",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "35187435-9857-4db6-824c-3be02b6daffc",
+			"active": false,
+			"code": "lo",
+			"name": "Lao",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "afcaef1d-1f84-4a88-9a03-03cfb266c06f",
+			"active": false,
+			"code": "lt",
+			"name": "Lithuanian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "84f18d25-b297-4c08-8370-ce9858559c90",
+			"active": false,
+			"code": "lv",
+			"name": "Latvian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "f931ac6b-6bc8-4ff4-a1c8-2940908f952e",
+			"active": false,
+			"code": "mg",
+			"name": "Malagasy",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "df0b652b-725f-4cd8-ac73-1972169372f3",
+			"active": false,
+			"code": "mk",
+			"name": "Macedonian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "b6257222-366c-42a7-b3d5-b23e367e5875",
+			"active": false,
+			"code": "ml",
+			"name": "Malayalam",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "552db5d9-62ac-42df-8b9c-4207fef11b42",
+			"active": false,
+			"code": "mn",
+			"name": "Mongolian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "e1d307b5-fade-465e-bd52-fd0682e06b51",
+			"active": false,
+			"code": "mr",
+			"name": "Marathi",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "5b881183-780d-4d4b-bac0-9d4109de30b6",
+			"active": false,
+			"code": "ms",
+			"name": "Bahasa Malaysia",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "625a5b9f-82d8-428b-a375-dc1a9e8ca6ff",
+			"active": false,
+			"code": "mt",
+			"name": "Maltese",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "67e9d269-5644-49ce-b3b9-3e3fee9561a5",
+			"active": false,
+			"code": "my",
+			"name": "Burmese",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "9cf49db0-4bda-4eaf-8189-68eb4d892dae",
+			"active": false,
+			"code": "ne",
+			"name": "Nepali",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "e04bdbe4-e1fe-4505-a83b-efb5ddc0dac9",
+			"active": false,
+			"code": "nl",
+			"name": "Dutch",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "84905333-2287-40aa-9d42-5d97128e4cc7",
+			"active": false,
+			"code": "nb",
+			"name": "Norwegian Bokmål",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "d74a295c-ced4-4ffb-9aad-2fd80d8d781c",
+			"active": false,
+			"code": "nn",
+			"name": "Norwegian Nynorsk",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "1725888d-8b2b-4f3a-9247-f023b413e9ce",
+			"active": false,
+			"code": "oc",
+			"name": "Occitan",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "090dc121-1d13-42c1-b2e8-5585d24691a9",
+			"active": false,
+			"code": "or",
+			"name": "Odia",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "898706b6-d881-46fc-880e-b20daf7b8b46",
+			"active": false,
+			"code": "os",
+			"name": "Ossetian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "c735a061-6bff-4da1-b443-62ebad87a050",
+			"active": false,
+			"code": "pa",
+			"name": "Punjabi",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "ff102ba3-0f5d-49d4-b5d7-d4001379652f",
+			"active": false,
+			"code": "pl",
+			"name": "Polish",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "3db02f1c-a7c9-452c-8307-6d4b2893c8c7",
+			"active": false,
+			"code": "prs",
+			"name": "Persian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "23fa6d5e-e81a-4144-80c3-0bd675e36839",
+			"active": false,
+			"code": "ps",
+			"name": "Pashto",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "9b1c22ed-d5ff-425e-b386-03210606cfab",
+			"active": false,
+			"code": "pt",
+			"name": "Portuguese, International",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "9db167de-656f-4c85-aa80-c9a4acd689b4",
+			"active": false,
+			"code": "pt-pt",
+			"name": "Portuguese, Portugal",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "a68c809c-7773-4643-879f-8d3062106944",
+			"active": false,
+			"code": "pt-br",
+			"name": "Portuguese, Brazil",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "75ab7481-0685-4bfd-8005-b62213ce810f",
+			"active": false,
+			"code": "rhg",
+			"name": "Rohingya",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "34eb73a4-990c-4991-beef-2d64fefd13e0",
+			"active": false,
+			"code": "rm-rumgr",
+			"name": "Rumantsch Grischun",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "4fb33001-5ac2-4ca7-a100-c9b04d6c874f",
+			"active": false,
+			"code": "ro",
+			"name": "Romanian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "636930c2-cc44-4556-a340-d12accd27baf",
+			"active": false,
+			"code": "ru",
+			"name": "Russian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "42f800cd-27f9-4337-b9d8-12c1e2a17fd9",
+			"active": false,
+			"code": "rw",
+			"name": "Kinyarwanda",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "dec717b2-5ba1-4e7d-8fae-4cd171bc4d63",
+			"active": false,
+			"code": "sco",
+			"name": "Scots",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "209ee8b8-f7ee-4133-83ff-ebc1fd30920e",
+			"active": false,
+			"code": "se",
+			"name": "Northern Sami",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "d8cc5056-79f6-4837-9046-03de0ac50159",
+			"active": false,
+			"code": "si",
+			"name": "Sinhala",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "fa229bad-122c-4e86-93cc-99564d7c0598",
+			"active": false,
+			"code": "sk",
+			"name": "Slovak",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "917f2efd-543c-4a56-8d9a-eeda685b3f04",
+			"active": false,
+			"code": "sl",
+			"name": "Slovenian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "36713bfc-2147-40bb-8ad6-da07724f1aa6",
+			"active": false,
+			"code": "sq",
+			"name": "Albanian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "2e03d034-c871-477d-9d0a-251e5c515606",
+			"active": false,
+			"code": "sr",
+			"name": "Serbian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "e39c1d61-96ff-4aa6-86fc-e76a8c6d5849",
+			"active": false,
+			"code": "sv",
+			"name": "Swedish",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "03180984-bd28-4929-a3ad-1d5b54fc003b",
+			"active": false,
+			"code": "sw",
+			"name": "Swahili",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "786ad2c5-c06d-4bfe-b2e8-11c0d5c526f1",
+			"active": false,
+			"code": "ta",
+			"name": "Tamil",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "62186cde-297a-4743-8981-5a2e8c6910d1",
+			"active": false,
+			"code": "ta-lk",
+			"name": "Tamil, Sri Lanka",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "3baf394c-0ebe-4404-9853-d63206e0e2a3",
+			"active": false,
+			"code": "te",
+			"name": "Telugu",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "5b61c2c8-9b77-4132-b73c-39a434819a81",
+			"active": false,
+			"code": "th",
+			"name": "Thai",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "3437ed06-766b-436b-a132-a844029b3c8b",
+			"active": false,
+			"code": "tr",
+			"name": "Turkish",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "1c5e666e-0f61-4bba-b845-c178b42132cb",
+			"active": false,
+			"code": "tyv",
+			"name": "Tuvan",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "2c499bd0-c345-4357-b7a4-6ac0f07ff436",
+			"active": false,
+			"code": "ug",
+			"name": "Uyghur",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "b8e67288-b824-48fb-82ca-428569b91c4e",
+			"active": false,
+			"code": "uk",
+			"name": "Ukrainian",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "d9e39a2b-ca39-4e90-8871-0a4e6f91edaf",
+			"active": false,
+			"code": "ur",
+			"name": "Urdu",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "132ebd43-42ef-4744-9fdd-b7b9bec8526f",
+			"active": false,
+			"code": "vi",
+			"name": "Vietnamese",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "34f032bc-cc8d-456a-b6f2-e3441e325f6d",
+			"active": false,
+			"code": "xx-lolspeak",
+			"name": "Lolspeak",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "0cdc66f7-55ea-4377-8878-5e6247e380fd",
+			"active": false,
+			"code": "zh-hans",
+			"name": "Chinese, Simplified",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		},
+		{
+			"uuid": "80be59c8-98a9-44f9-8e29-e86004e9f1ed",
+			"active": false,
+			"code": "zh-hant",
+			"name": "Chinese, Traditional",
+			"created_at": "2024-02-29 23:22:28.935554",
+			"updated_at": "2024-02-29 23:22:28.935554"
+		}
+	]
+}
